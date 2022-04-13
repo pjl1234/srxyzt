@@ -1,0 +1,63 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.bignew{
+    width: 1024px;
+    height: 2460px;
+    margin: 0 auto;
+}
+.newnrbig{
+    width: 1024px;
+    height: 2330px;
+    margin: 10px auto;
+    text-align: center;
+    background-image: url("../img/newportbj.jpeg");
+    background-size: cover;
+}
+.newnrbig>h1{
+    margin: 10px auto;
+    font-size: 40px;
+    color: royalblue;
+}
+.new{
+    width: 930px;
+    height: 490px;
+    margin: 35px 0 0 70px;
+    background-color: rgba(176,195,191,0.6);
+    border-radius: 10px;
+}
+.new>img{
+    width: 290px;
+    height: 290px;
+    margin: 10px 0 0 6px;
+    border: 2px dashed orange;
+    border-radius: 20px;
+}
+.newul{
+    margin-top: 6px;
+    list-style: none;
+    font-size: 16px;
+    text-align: left;
+}
+.newul li{
+    margin-left: 40px;
+    border-bottom: 1px dashed grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

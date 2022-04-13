@@ -1,0 +1,105 @@
+.bigfinde{
+    width: 1024px;
+    height: 2460px;
+    margin: 0 auto;
+    background-color: rgba(252,245,216,0.2);
+}
+.findebig{
+    width: 1024px;
+    height: 2270px;
+    margin: 0 auto;
+    border: 2px dashed orange;
+}
+.findebig>h1{
+    margin:40px 0 0 420px;
+    font-size: 40px;
+}
+.findetop{
+    width: 270px;
+    height: 30px;
+    margin: 30px auto;
+}
+.findefenei{
+    list-style: none;
+    font-size: 20px;
+    color: orange;
+}
+.findefenei li{
+    border: 1px dashed darkcyan;
+    float: left;
+}
+.findeli:hover{
+    background-color: rgba(126,144,144);
+}
+.findeli1:hover{
+    background-color: rgba(126,144,144);
+}
+.findeli2:hover{
+    background-color: rgba(126,144,144);
+}
+.findeli3:hover{
+    background-color: rgba(126,144,144);
+}
+.fenbukuang1{
+    width: 900px;
+    height: 450px;
+    background-color: rgba(177,196,192,0.4);
+    border: 1px solid red;
+    position: relative;
+    left: 70px;
+}
+.findetop1{
+    margin-left: 30px;
+    width: 250px;
+    height: 410px;
+    display: inline-block;
+}
+.findetop1>img{
+    width: 250px;
+    height: 300px;
+    border: 2px dashed orange;
+    border-radius: 20px;
+}
+.findetop1 ul{
+    text-align: center;
+    list-style: none;
+    color: rgba(54,49,27);
+}
+.findetop1 h3{
+    display: inline-block;
+    color: rgba(174,121,127);
+}
+.gengduo{
+    float: right;
+    color: black;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.fenbukuang2{
+    width: 900px;
+    height: 450px;
+    margin-top: 10px;
+    background-color: rgba(177,196,192,0.4);
+    border: 1px solid red;
+    position: relative;
+    left: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

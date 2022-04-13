@@ -1,0 +1,89 @@
+.bbqbig{
+    width: 1024px;
+    height: 1100px;
+    margin: 0 auto;
+    background-image: url("../img/bbqbj.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bbqgd{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    position: fixed;
+    top: 8cm;
+    right: 20px;
+    background-image: url("../img/fban.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bigkuai{
+    width: 900px;
+    height: 1000px;
+    margin: 50px auto;
+}
+.dabiaoti{
+    margin: 20px auto;
+    width: 300px;
+    height: 100px;
+    font-size: 60px;
+    color: gray;
+}
+.liebiao{
+    margin: 40px auto;
+    padding: 20px;
+    width: 790px;
+    height: 800px;
+    background-color: rgb(225,251,240,0.7);
+}
+.xwtop{
+    display: inline-block;
+    width: 740px;
+    height: 200px;
+    margin-left: 20px;
+    background-color: rgb(235,229,209,0.6);
+}
+.xwtp1,.xwtp3,.xwtp4,.xwtp5,.xwtp6{
+    margin:20px 10px auto 30px;
+    width: 550px;
+    height: 150px;
+    border-radius: 20px;
+    display: inline-block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 4px solid chocolate;
+}
+.xwtp1{
+    background-image: url("../img/xyqs.png");
+}
+.xwtp2{
+    background-image: url("../img/tc.png");
+}
+.xwtp3{
+    background-image: url("../img/zdx.png");
+}
+.xwtp4{
+    background-image: url("../img/lr.png");
+}
+
+.xwtitle{
+    width: 70px;
+    height: 150px;
+    margin: 20px auto;
+    margin-left: 15px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 35px;
+    font-family: "Baoli TC";
+    background-color: rgb(225,226,225,0.5);
+}
+.xwtp2,.xwtp4{
+    margin:20px 10px auto 30px;
+    width: 204px;
+    height: 150px;
+    border-radius: 20px;
+    display: inline-block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 4px solid chocolate;
+}

@@ -1,0 +1,55 @@
+
+.bigtucao{
+	width: 1024px;
+	height: 1560px;
+	margin: 0 auto;
+	background-image: url("../img/tcbj.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.tcgd{
+	width: 60px;
+	height: 60px;
+	border-radius: 100%;
+	position: fixed;
+	top: 8cm;
+	right: 20px;
+	background-image: url("../img/fban.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.lizi{
+	width: 700px;
+	height: 350px;
+	margin: 10px auto;
+	background-color: rgb(225,225,225,0.4);
+}
+.toptu,.tupiangeshi{
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin-left: 20px;
+	margin-top: 20px;
+	border-radius: 30px;
+	border: 2px solid #72afd3;
+}
+.topwenzi{
+	width: 600px;
+	height: 50px;
+	margin: 5px auto;
+	border: 2px solid lightslategrey;
+	border-radius: 10%;
+}
+i{
+	float: right;
+	margin-top: 15px;
+	margin-right: 5px;
+}
+i:focus{
+	color: #2c6fdb;
+}
+.tcwenzi{
+	font-size: 15px;
+	color: grey;
+	text-align: center;
+}
